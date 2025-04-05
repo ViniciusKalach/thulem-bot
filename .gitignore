@@ -1,0 +1,19 @@
+# Evita subir segredos
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VSCode config (se usar)
+.vscode/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Corpus e logs (opcional)
+*.log
+messages.txt
+sabedoria.txt
