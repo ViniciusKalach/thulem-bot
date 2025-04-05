@@ -28,7 +28,7 @@ Thúlëm é um bot Discord **privado, arcano e etéreo**, desenvolvido para serv
 ### 📦 Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/thulem-bot.git
+git clone https://github.com/ViniciusKalach/thulem-bot.git
 cd thulem-bot
 python -m venv venv
 source venv/bin/activate  # No Windows: venv\Scripts\activate
