@@ -9,10 +9,9 @@ Thúlëm é um bot Discord **privado, arcano e etéreo**, desenvolvido para serv
 
 ### ✨ Funcionalidades
 
-- 🗝️ Geração de mensagens inspiradas em mensagens antigas com algoritmos de Markov
-- 🧠 Estilo único de comunicação, inspirado em linguagens arcanas e filosofia élfica
-- 🔒 Foco em **privacidade**, **segurança** e **autonomia**
-- 🎴 Atmosfera estética inspirada em **Tolkien**, **alquimia** e **cultura hacker**
+- 🗝️ Geração de mensagens inspiradas em mensagens antigas com algoritmos de Markov.
+- 🧠 Estilo único de comunicação, inspirado em linguagens arcanas e filosofia élfica.
+- 🔒 Foco em **privacidade**, **segurança** e **autonomia**.
 
 ---
 
@@ -34,3 +33,7 @@ python -m venv venv
 source venv/bin/activate  # No Windows: venv\Scripts\activate
 pip install -r requirements.txt
 cp .env.example .env
+```
+
+---
+☁️ Nota: Este projeto foi desenvolvido com auxílio de IA como forma de estudo e exploração de novas tecnologias.
